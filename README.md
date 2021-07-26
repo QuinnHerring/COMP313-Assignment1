@@ -1,1 +1,5 @@
-# COMP313-Assignment1
+COMP313\
+Quinn Herring\
+Assignment 1
+
+PICK UP BRICKS
