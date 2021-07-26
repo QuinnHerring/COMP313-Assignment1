@@ -11,7 +11,7 @@ ALightSwitch::ALightSwitch()
 
     PointLight1 = CreateDefaultSubobject<UPointLightComponent>(TEXT("PointLight1"));
     PointLight1->Intensity = DesiredIntensity;
-    PointLight1->SetVisibility(true, true);
+    PointLight1->SetVisibility(false, false);
     RootComponent = PointLight1;
 }
 
